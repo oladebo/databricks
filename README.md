@@ -73,12 +73,14 @@ Optimize for query performance
 
 
 🧪 Transformations
+
 Convert date formats
 Standardize customer names
 Handle missing values
 Calculate total sales
 
 🔄 Orchestration
+
 Managed using Databricks Workflows
 Scheduled jobs for:
 Data ingestion
@@ -86,17 +88,18 @@ Data transformation
 Data aggregation
 
 📈 Use Cases
+
 Sales performance analysis
 Customer segmentation
 Product performance tracking
 Business reporting dashboards
 
 🔐 Data Quality Checks
+
 Null value validation
 Duplicate removal
 Schema enforcement
 Data consistency checks
 
-👨‍💻 Presented by
+👨‍💻 By Oladebo A. Ayanniyi
 
-Oladebo A. Ayanniyi
