@@ -9,6 +9,8 @@ This project implements a modern data warehouse on Databricks using the Medallio
 
 🏗️ Architecture
 
+
+
 The project follows the Medallion Architecture:
 
 🔹 Bronze Layer (Raw Data)
@@ -52,6 +54,7 @@ Power BI / Tableau (for reporting)
 
 
 🚀 Data Pipeline Flow
+
 1️⃣ Ingestion (Bronze)
 Load raw files into Databricks
 Store as Delta tables
